@@ -1,1 +1,3 @@
 Sample file content for Git hub
+
+A new data has been added to the file
